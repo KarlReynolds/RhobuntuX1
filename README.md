@@ -2,7 +2,7 @@
 Rhobuntu Linux for HTC Kovsky (Sony Ericsson Xperia X1 handset)
 
 
-View this file in a monospaced font for best readability.
+View this file in a monospaced font for best readability. (i.e. View "Raw" on Github)
 ============================================================
 RRRRRb, hh             bb                      tt
 RR   RR hh       doob  bb      uu   uu nn.nnb, tt    uu   uu 
