@@ -31,6 +31,9 @@ This enables the Xperia X1 smart phone to be used as an ultra mobile personal co
 HOW? 
 (Warning: Insufficient technical capability / knowledge can ruin your SD card / Xperia X1 / computer. YOU DO THIS ALL AT YOUR OWN RISK!)
 =============
+Download the archive RhobuntuX1.tar.gz to a folder on your computer.
+Extract the contents (e.g. "tar -zxvf RhobuntuX1.tar.gz" from Linux command line)
+Then proceed as below:
 
 Simple Method (booting from an image file / non-partitioned booting):
 --------------------------------------------------------------------------------
