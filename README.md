@@ -1,7 +1,7 @@
 # RhobuntuX1
 Rhobuntu Linux for HTC Kovsky (Sony Ericsson Xperia X1 handset)
 
-
+<pre>
 View this file in a monospaced font for best readability. (i.e. View "Raw" on Github)
 ============================================================
 RRRRRb, hh             bb                      tt
@@ -145,3 +145,4 @@ http://www.gsmarena.com/sony_ericsson_xperia_x1-2246.php
 ================================================================================
 My thanks to walter79 for making Rhobuntu version 9.04, on which this is based, available once more.
 d-signer 2016.
+</pre>
